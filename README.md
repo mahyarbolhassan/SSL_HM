@@ -1,6 +1,6 @@
 
 
-# SSL_HM
+# Semi-Supervised Segmentation of Multi-vendor and Multi-center Cardiac MRI
 Semi supervised learning with histogram matching
 
 This repository is based on Keras
