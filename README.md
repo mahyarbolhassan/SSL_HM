@@ -16,3 +16,10 @@ Next step is to merge data and start training again with new data. In this manne
  
  One of best semi supervised results:
 ![best2ssl](https://user-images.githubusercontent.com/80331448/113724571-27958480-96fb-11eb-857a-f69a2838e2cd.png)
+
+You can find the paper here:
+https://ieeexplore.ieee.org/abstract/document/9477818
+
+Cite this paper:
+@INPROCEEDINGS{9477818,  author={Bolhassani, Mahyar and Oksuz, Ilkay},  booktitle={2021 29th Signal Processing and Communications Applications Conference (SIU)},   title={Semi-Supervised Segmentation of Multi-vendor and Multi-center Cardiac MRI},   year={2021},  volume={},  number={},  pages={1-4},  doi={10.1109/SIU53274.2021.9477818}}
+
